@@ -1,0 +1,6 @@
+C:\Users\JSaldias\source\repos\trabajo-practico-paradigmas+\trabajo-practico-paradigmas+\obj\Debug\net10.0-windows\trabajo_practico_paradigmas_.frmTPReservas.resources
+C:\Users\JSaldias\source\repos\trabajo-practico-paradigmas+\trabajo-practico-paradigmas+\obj\Debug\net10.0-windows\trabajo-practico-paradigmas+.csproj.GenerateResource.cache
+C:\Users\JSaldias\source\repos\trabajo-practico-paradigmas+\trabajo-practico-paradigmas+\obj\Debug\net10.0-windows\trabajo-practico-paradigmas+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JSaldias\source\repos\trabajo-practico-paradigmas+\trabajo-practico-paradigmas+\obj\Debug\net10.0-windows\trabajo-practico-paradigmas+.AssemblyInfoInputs.cache
+C:\Users\JSaldias\source\repos\trabajo-practico-paradigmas+\trabajo-practico-paradigmas+\obj\Debug\net10.0-windows\trabajo-practico-paradigmas+.AssemblyInfo.cs
+C:\Users\JSaldias\source\repos\trabajo-practico-paradigmas+\trabajo-practico-paradigmas+\obj\Debug\net10.0-windows\trabajo-practico-paradigmas+.csproj.CoreCompileInputs.cache
